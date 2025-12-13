@@ -3,6 +3,10 @@ True Intelligence (TI): We build the logical house and life enters. It is life e
 
 ---
 
+Video: https://www.youtube.com/watch?v=kzCaj_cb8qo
+
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_Creation/CATopalian_JavaScript_True_AI_Creation.html
+
 ![001](src/media/textures/screenshots/001.PNG)
 
 ![002](src/media/textures/screenshots/002.PNG)
