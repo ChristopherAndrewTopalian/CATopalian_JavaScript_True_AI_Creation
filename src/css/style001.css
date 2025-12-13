@@ -1,0 +1,51 @@
+/* style001.css */
+
+body
+{
+    background-color: rgb(30, 30, 30);
+    font-family: Arial;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+}
+
+input
+{
+    border: solid 1px rgb(255, 255, 255);
+    padding: 2px 6px;
+    z-index: 100;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+::-webkit-scrollbar
+{
+    width: 7px;
+    height: 7px;
+}
+
+::-webkit-scrollbar-track
+{
+    background: rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb
+{
+    background-color: rgb(0, 255, 255);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover
+{
+    background-color: rgba(120, 120, 120, 0.9);
+}
+
+/*----*/
+
+/* Dedicated to God the Father */
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025 */
+/* https://github.com/ChristopherTopalian */
+/* https://github.com/ChristopherAndrewTopalian */
+/* https://sites.google.com/view/CollegeOfScripting */
+
