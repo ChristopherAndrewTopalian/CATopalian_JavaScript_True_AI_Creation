@@ -3,9 +3,11 @@
 function whenLoaded()
 {
     makeInterface();
+
     makeTitleOfApp();
 
     think();
+
     updateGates();
 }
 

@@ -4,10 +4,11 @@ function makeTitleOfApp()
 {
     let titleContainer = ce('div');
     titleContainer.style.position = 'absolute';
-    titleContainer.style.right = '0px';
+    titleContainer.style.right = '2px';
     titleContainer.style.top = '4px';
     titleContainer.style.width = '90px';
     titleContainer.style.zIndex = 1;
+    titleContainer.style.lineHeight = '13px';
     ba(titleContainer);
 
     //-//
