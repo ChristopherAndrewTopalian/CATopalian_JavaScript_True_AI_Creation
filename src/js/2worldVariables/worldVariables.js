@@ -9,6 +9,7 @@ let memory = [];
 
 // need
 let hunger;
+
 // state
 let hungry;
 
